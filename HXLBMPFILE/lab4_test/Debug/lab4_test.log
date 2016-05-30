@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/5/30 0:01:59。
+     1>项目“g:\visual studio 2015\Projects\HXLBMPFILE\lab4_test\lab4_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt lab4_test.cpp
+         lab4_test.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\lab4_test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\lab4_test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\lab4_test.lib" /MACHINE:X86 Debug\lab4_test.obj
+         lab4_test.vcxproj -> g:\visual studio 2015\Projects\HXLBMPFILE\Debug\lab4_test.exe
+     1>已完成生成项目“g:\visual studio 2015\Projects\HXLBMPFILE\lab4_test\lab4_test.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.43

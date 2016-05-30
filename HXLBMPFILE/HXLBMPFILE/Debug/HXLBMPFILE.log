@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/3/7 18:51:18。
+     1>项目“g:\visual studio 2015\Projects\HXLBMPFILE\HXLBMPFILE\HXLBMPFILE.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D HXLBMPFILE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D HXLBMPFILE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt HXLBMPFILE.cpp stdafx.cpp
+         stdafx.cpp
+         HXLBMPFILE.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\HXLBMPFILE.obj
+         Debug\stdafx.obj
+           正在创建库 g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.lib 和对象 g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.exp
+         HXLBMPFILE.vcxproj -> g:\visual studio 2015\Projects\HXLBMPFILE\Debug\HXLBMPFILE.dll
+     1>已完成生成项目“g:\visual studio 2015\Projects\HXLBMPFILE\HXLBMPFILE\HXLBMPFILE.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.59
